@@ -3,10 +3,9 @@ In industrial manufacturing fault diagnosis, accurately identifying subtle fault
 
 This work builds upon our previous conference paper, which introduced the initial SSGC framework for steel plate fault diagnosis. In the present study, we extend this approach by incorporating an adaptive threshold strategy and applying it across different industrial materials, leading to improved fault diagnosis performance and broader applicability.
 
-\thanks{Corresponding authors: Haiqi Zhu; Zhiyuan Chen.}
+Corresponding authors: Haiqi Zhu; Zhiyuan Chen.
+Y. Chen and Z. Chen are with the School of Computer Science, University of Nottingham Malaysia, Semenyih, Selangor, 43500, Malaysia (e-mail: \href{mailto:hcxyc1@nottingham.edu.my}{hcxyc1@nottingham.edu.my}; \href{mailto:Zhiyuan.Chen@nottingham.edu.my}{Zhiyuan.Chen@nottingham.edu.my}).
+H. Zhu and H. Xu are with the Faculty of Computing and the School of Medicine and Health, Harbin Institute of Technology, Harbin, Heilongjiang, 15001, China (e-mail: \href{mailto:haiqizhu@hit.edu.cn}{haiqizhu@hit.edu.cn}; \href{mailto:23s136156@stu.hit.edu.cn}{23s136156@stu.hit.edu.cn}).
+H. U. Amin is with the Department of Computer Science, Edge Hill University, Ormskirk, Lancashire, L39 4QP, United Kingdom (e-mail: \href{mailto:hafeezullah.amin@edgehill.ac.uk}{hafeezullah.amin@edgehill.ac.uk}).
+D. Landa-Silva is with the School of Computer Science, University of Nottingham, Nottingham, NG7 2RD, United Kingdom (e-mail: \href{mailto:dario.landasilva@nottingham.ac.uk}{dario.landasilva@nottingham.ac.uk}).}
 
-\thanks{Y. Chen and Z. Chen are with the School of Computer Science, University of Nottingham Malaysia, Semenyih, Selangor, 43500, Malaysia (e-mail: \href{mailto:hcxyc1@nottingham.edu.my}{hcxyc1@nottingham.edu.my}; \href{mailto:Zhiyuan.Chen@nottingham.edu.my}{Zhiyuan.Chen@nottingham.edu.my}).}
-\thanks{H. Zhu and H. Xu are with the Faculty of Computing and the School of Medicine and Health, Harbin Institute of Technology, Harbin, Heilongjiang, 15001, China (e-mail: \href{mailto:haiqizhu@hit.edu.cn}{haiqizhu@hit.edu.cn}; \href{mailto:23s136156@stu.hit.edu.cn}{23s136156@stu.hit.edu.cn}).}
-\thanks{H. U. Amin is with the Department of Computer Science, Edge Hill University, Ormskirk, Lancashire, L39 4QP, United Kingdom (e-mail: \href{mailto:hafeezullah.amin@edgehill.ac.uk}{hafeezullah.amin@edgehill.ac.uk}).}
-\thanks{D. Landa-Silva is with the School of Computer Science, University of Nottingham, Nottingham, NG7 2RD, United Kingdom (e-mail: \href{mailto:dario.landasilva@nottingham.ac.uk}{dario.landasilva@nottingham.ac.uk}).}
-}
